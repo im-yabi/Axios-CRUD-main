@@ -112,5 +112,5 @@ You may also see any lint errors in the console.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at prakashvs.official@gmail.com
+If you have any feedback, please reach out to me at yabeshm01@gmail.com
 
